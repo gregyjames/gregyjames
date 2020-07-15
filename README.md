@@ -1,4 +1,4 @@
-<h2><img src="https://media.tenor.com/images/e3b44792cbe73b6e4838f7479bd4e9a2/tenor.gif" width="50" height="50" display="inline" margin-top="50px">Hi, I'm Greg!</h2>
+<h2>:man_technologist: Hi, I'm Greg!</h2>
 <img align='right' src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="230">
 <p><em>Software Enginner at the <a href="https://www.iit.edu/">Illinois institute of Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
