@@ -1,6 +1,6 @@
 <h2>:man_technologist: Hi, I'm Greg!</h2>
 <img align='right' src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="230">
-<p><em>Software Enginnering student at the <a href="https://www.iit.edu/">Illinois institute of Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginnering student at the <a href="https://www.iit.edu/">Illinois institute of Technology</a> and writer at medium<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
