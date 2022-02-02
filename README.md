@@ -7,3 +7,8 @@
 [![Twitter Greg](https://img.shields.io/twitter/follow/gregcodesstuff?label=Follow)](https://twitter.com/gregcodesstuff)
 
 ![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=gregyjames&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/1" alt="Recent Article 1"></a>
+<br>
