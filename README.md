@@ -1,6 +1,6 @@
-<h2>:man_technologist: Hi, I'm Greg!</h2>
-<img align='right' src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="230">
-<p><em>Software Enginnering student at the <a href="https://www.iit.edu/">Illinois institute of Technology</a> and writer at medium<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
+<h2>Hi, I'm Greg!</h2>
+<p>I am a recently graduated Software Enginnering student from the <a href="https://www.iit.edu/">Illinois institute of Technology</a> in Chicago, Illinois. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C#, C++ and Rust. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
 </em></p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
@@ -8,7 +8,16 @@
 
 ![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=gregyjames&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thegregjames/1" alt="Recent Article 1"></a>
-<br>
+## Socials
+<div align="center">
+  <a href="https://twitter.com/gregcodesstuff">
+  <img width="50" alt="" width="22px" src="https://github.com/gregyjames/gregyjames/blob/master/images/tw.png"/>
+</a>
+
+<a href="https://medium.com/@thegregjames">
+  <img width="50" alt="" width="22px" src="https://github.com/gregyjames/gregyjames/blob/master/images/medium.png"/>
+</a>
+<a href="https://www.linkedin.com/in/gregory-james/">
+  <img width="50" alt="" width="22px" src="https://github.com/gregyjames/gregyjames/blob/master/images/li.png" />
+</a>
+  </div>
