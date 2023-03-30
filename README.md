@@ -9,6 +9,8 @@
 
 ![Greg's User Stats](https://github-readme-stats.vercel.app/api?username=gregyjames&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<img src="https://wakatime.com/share/@gjames808/eca92b75-688c-453e-b8a6-14a91d578caa.png">
+
 ## Socials
 <div align="center">
   <a href="https://twitter.com/gregcodesstuff">
