@@ -8,6 +8,10 @@
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
 [![Twitter Greg](https://img.shields.io/twitter/follow/gregcodesstuff?label=Follow)](https://twitter.com/gregcodesstuff)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gregyjames&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
   <a href="https://skillicons.dev">
