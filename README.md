@@ -2,7 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=gregyjames&label=Profile%20views&color=0e75b6&style=flat" alt="gregyjames" />
 <img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
 <h2>Hi, I'm Greg!</h2>
-<p>I am a recently graduated Software Enginnering student from the <a href="https://www.iit.edu/">Illinois institute of Technology</a> in Chicago, Illinois. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C#, C++ and Rust. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
+<p>
+  You came for the code but stayed for the terrible attempts at humor. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. 
 </em></p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
