@@ -1,0 +1,43 @@
+name: Update NuGet Downloads
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get NuGet package data
+        run: |
+          curl -s "https://api.nuget.org/v3/registration5-gz-semver1/{packageId}/index.json" > nuget-data.json
+          # Add more curl requests or modify to loop through all your packages
+
+      - name: Calculate total downloads
+        run: |
+          TOTAL_DOWNLOADS=0
+          for package in "OctaneEngineCore" "ProgressStream" "BitPortSharp"
+          do
+            DOWNLOADS=$(curl -s "https://api.nuget.org/v3/registration5-gz-semver1/$package/index.json" | jq '.totalDownloads')
+            TOTAL_DOWNLOADS=$(($TOTAL_DOWNLOADS + $DOWNLOADS))
+          done
+          echo "Total downloads: $TOTAL_DOWNLOADS"
+
+      - name: Update README
+        run: |
+          sed -i "s/<!-- nuget-total-downloads -->/$TOTAL_DOWNLOADS/" README.md
+        shell: bash
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "${{ github.actor }}"
+          git add README.md
+          git commit -m "Update NuGet total downloads"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
