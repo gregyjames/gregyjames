@@ -19,6 +19,20 @@
   </a>
 </p>
 
+## My Libraries
+<div align="center">
+<table>
+  <tr>
+    <td><a href="https://www.nuget.org/packages/OctaneEngineCore">OctaneDownloadEngine</a></td>
+    <td><img src="https://img.shields.io/nuget/dt/OctaneEngineCore?style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.nuget.org/packages/ProgressStream">ProgressStream</a></td>
+    <td><img src="https://img.shields.io/nuget/dt/ProgressStream?style=flat-square"></td>
+  </tr>
+</table>
+</div>
+
 ## Socials
 <div align="center">
 <a href="https://twitter.com/gregcodesstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregcodesstuff" height="30" width="40" /></a>
