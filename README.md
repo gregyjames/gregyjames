@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## My Libraries
+## Libraries
 <div align="center">
 <table>
   <tr>
