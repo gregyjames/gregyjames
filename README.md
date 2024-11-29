@@ -30,6 +30,10 @@
     <td><a href="https://www.nuget.org/packages/ProgressStream">ProgressStream</a></td>
     <td><img src="https://img.shields.io/nuget/dt/ProgressStream?style=flat-square"></td>
   </tr>
+  <tr>
+    <td><a href="https://www.nuget.org/packages/gj.autofac.caching.redis">gj.autofac.caching.redis</a></td>
+    <td><img src="https://img.shields.io/nuget/dt/gj.autofac.caching.redis?style=flat-square"></td>
+  </tr>
 </table>
 </div>
 
