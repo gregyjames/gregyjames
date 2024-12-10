@@ -3,8 +3,8 @@
 <img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
 <h2>Hi, I'm Greg!</h2>
 <p>
-  You came for the code but stayed for the terrible attempts at humor. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. 
-</em></p>
+  Ever since I was a child, I've dreamt of maximizing stakeholder value by building large scale distributed data pipelines and dynamic data driven dashboards. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. Remember: Only <i>YOU</i> can prevent YAML configuration.
+</p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
 [![Twitter Greg](https://img.shields.io/twitter/follow/gregcodesstuff?label=Follow)](https://twitter.com/gregcodesstuff)
