@@ -3,7 +3,13 @@
 <img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
 <h2>Hi, I'm Greg!</h2>
 <p>
-  Ever since I was a child, I've dreamt of maximizing stakeholder value by building large scale distributed data pipelines and dynamic data driven dashboards. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. Remember: Only <i>YOU</i> can prevent YAML configuration.
+  Ever since I was a child, I've dreamt of maximizing stakeholder value by building large scale distributed data pipelines and dynamic data driven dashboards. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me, so feel free to reach out for any projects or questions. Some of my other skills include:
+  <ol>
+  <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man. </li>
+  <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities. </li>
+  <li><b>Synergy.</b></li>
+  </ol>
+Remember: Only <b><i>YOU</i></b> can prevent YAML configuration.
 </p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
