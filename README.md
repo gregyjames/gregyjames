@@ -7,7 +7,7 @@
   <ol>
   <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man. </li>
   <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities. </li>
-  <li><b>Synergy.</b></li>
+  <li>🧚✨<b>Synergy</b>✨🧚</li>
   </ol>
 Remember: Only <b><i>YOU</i></b> can prevent YAML configuration.
 </p>
