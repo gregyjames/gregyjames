@@ -40,6 +40,10 @@ Remember: Only <b><i>YOU</i></b> can prevent YAML configuration.
     <td><a href="https://www.nuget.org/packages/gj.autofac.caching.redis">gj.autofac.caching.redis</a></td>
     <td><img src="https://img.shields.io/nuget/dt/gj.autofac.caching.redis?style=flat-square"></td>
   </tr>
+  <tr>
+    <td><a href="https://www.nuget.org/packages/Mapperic">Mapperic</a></td>
+    <td><img src="https://img.shields.io/nuget/dt/Mapperic?style=flat-square"></td>
+  </tr>
 </table>
 </div>
 
