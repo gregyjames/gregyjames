@@ -45,6 +45,18 @@ Remember: Only <b><i>YOU</i></b> can prevent YAML configuration.
     <td><img src="https://img.shields.io/nuget/dt/Mapperic?style=flat-square"></td>
   </tr>
   <tr>
+    <td><a href="https://www.nuget.org/packages/LeaderElection">LeaderElection</td>
+    <td><img src="https://img.shields.io/nuget/dt/LeaderElection"></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.nuget.org/packages/LeaderElection.Redis">LeaderElection.Redis</td>
+    <td><img src="https://img.shields.io/nuget/dt/LeaderElection.Redis"></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.nuget.org/packages/LeaderElection.BlobStorage">LeaderElection.BlobStorage</td>
+    <td><img src="https://img.shields.io/nuget/dt/LeaderElection.BlobStorage"></td>
+  </tr>
+  <tr>
     <td><a href="https://pypi.org/project/zenithta/">ZenithTA</td>
     <td><img src="https://static.pepy.tech/badge/zenithta"></td>
   </tr>
