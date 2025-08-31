@@ -1,15 +1,16 @@
 [![wakatime](https://wakatime.com/badge/user/18a55e97-f175-44d4-b269-5e148339a0d8.svg)](https://wakatime.com/@18a55e97-f175-44d4-b269-5e148339a0d8)
 <img src="https://komarev.com/ghpvc/?username=gregyjames&label=Profile%20views&color=0e75b6&style=flat" alt="gregyjames" />
+<a href=""><img src="https://img.shields.io/github/stars/gregyjames?label=Star%20Gazers&style=social"></a>
 <img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
 <h2>Hi, I'm Greg!</h2>
 <p>
   Ever since I was a child, I've dreamt of maximizing stakeholder value by building large scale distributed data pipelines and dynamic data driven dashboards. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me, so feel free to reach out for any projects or questions. Some of my other skills include:
   <ol>
-  <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man. </li>
-  <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities. </li>
-  <li>🧚✨<b>Synergy</b>✨🧚</li>
+  <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man. (I don't think you realize how awesome that pun was)</li>
+  <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities and personal tragedies. I.e My wife left me and took the kids, here's 6 things it taught me about customer churn and why retention always costs less than acquisition.</li>
+  <li>🧚✨<b>Coorporate Synergy</b>✨🧚</li>
   </ol>
-Remember: Only <b><i>YOU</i></b> can prevent YAML configuration.
+Remember: Only <b><i>YOU</i></b> can prevent YAML configuration in your org.
 </p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
