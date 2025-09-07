@@ -8,7 +8,7 @@
   <ol>
   <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man. (I don't think you realize how awesome that pun was)</li>
   <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities and personal tragedies. I.e My wife left me and took the kids, here's 6 things it taught me about customer churn and why retention always costs less than acquisition.</li>
-  <li>🧚✨<b>Coorporate Synergy</b>✨🧚</li>
+  <li>🧚✨<b>Corporate Synergy</b>✨🧚</li>
   </ol>
 Remember: Only <b><i>YOU</i></b> can prevent YAML configuration in your org.
 </p>
