@@ -10,7 +10,10 @@
   <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities and personal tragedies. I.e My wife left me and took the kids, here's 6 things it taught me about customer churn and why retention always costs less than acquisition.</li>
   <li>🧚✨<b>Corporate Synergy</b>✨🧚</li>
   </ol>
-Remember: Only <b><i>YOU</i></b> can prevent YAML configuration in your org.
+
+  <h3>Remember:</h3>
+  <img src="https://github.com/gregyjames/gregyjames/blob/master/images/readme_smokey_min.png?raw=true" width="500px" />
+  <small>(Don't worry we will go after Python for non-scripting and ML/DS uses next. All my homies hate languages based on indentation)</small>
 </p>
 
 [![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
