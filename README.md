@@ -4,13 +4,19 @@
 <img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
 <h2>Hi, I'm Greg!</h2>
 <p>
-  Ever since I was a child, I've dreamt of maximizing stakeholder value by building large scale distributed data pipelines and dynamic data driven dashboards. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me, so feel free to reach out for any projects or questions. Some of my other skills include:
+  Ever since I was a child, I've dreamt of maximizing stakeholder value by building large scale distributed data pipelines and dynamic data driven dashboards. Fun fact: I'll always take on new projects, even when 165+ unfinished repos are haunting me, so feel free to reach out for any projects or questions. Some of my other skills include:
   <ol>
-  <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man. (I don't think you realize how awesome that pun was)</li>
-  <li>I can have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the mundanest activities and personal tragedies. I.e My wife left me and took the kids, here's 6 things it taught me about customer churn and why retention always costs less than acquisition.</li>
+  <li>Throwing around buzzwords so if you need someone to "Metamorphosize your data ingestion with Kafka" I'm your man.</li>
+  <li>I have an <i>uncanny</i> ability to take away lessons about building a B2B SaaS from even the most mundane activities and personal tragedies. I.e My wife left me and took the kids, here's 6 things it taught me about customer churn and why retention always costs less than acquisition.</li>
   <li>🧚✨<b>Corporate Synergy</b>✨🧚</li>
   </ol>
 
+  My Passions include:
+  <ol>
+  <li>Re-reading Frankenstein, but strictly as a blueprint for launching an MVP without testing, ignoring end-user feedback, and ghosting the product.</li>
+  <li>Architecting bespoke Markdown UI environments via custom CSS within Obsidian to streamline enterprise Knowledge Management systems (2 high-impact artifacts shipped YTD)</li>
+  <li>Practicing voluntary discomfort and modern Stoicism through highly leveraged yield farming on BSC—treating sudden, catastrophic liquidation cascades as opportunities to refine executive decision velocity.</li>
+  </ol>
   <h3>Remember:</h3>
   <img src="https://github.com/gregyjames/gregyjames/blob/master/images/readme_smokey_min.png?raw=true" width="500px" />
   <small>(Don't worry we will go after Python for non-scripting and ML/DS uses next. All my homies hate languages based on indentation)</small>
